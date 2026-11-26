@@ -1,0 +1,3 @@
+# Literal strings the privacy check may let through, one per line.
+# Matching ignores case. Add a line only after checking that the string is
+# safe to publish, and say why in the pull request.

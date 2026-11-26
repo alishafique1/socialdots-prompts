@@ -1,0 +1,5 @@
+# Local list of client names for the privacy check. Never commit it.
+.privacy-denylist
+__pycache__/
+*.pyc
+.DS_Store
